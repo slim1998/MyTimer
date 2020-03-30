@@ -1,0 +1,55 @@
+/* .time {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  width: 30%;
+}
+.btn{
+  display: flex;
+ justify-content: center;
+ justify-content: space-evenly;
+} */
+.App {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  justify-content: center;
+}
+
+
+
+.timebar{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  width: 30%;
+
+}
+
+.btntime {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-left: -100px;
+
+}
+button {
+  width: 200px;
+  height: 40px;
+  width: 100px;
+  color: #00b39b;
+  background-color: #ffffff;
+  border: solid #00b39b  ;
+  border-width: 1.5px;
+  border-radius: 5px;
+}
+.resetb {
+  width: 200px;
+  height: 40px;
+  width: 100px;
+  color: rgb(143, 34, 34);
+  background-color: #ffffff;
+  border: solid #00b39b  ;
+  border-width: 1.5px;
+  border-radius: 5px;
+}
